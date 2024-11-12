@@ -13,7 +13,7 @@ Repository ini berisi pembelajaran pada mata kuliah **Pemrograman Berbasis Web L
 - **Jam**: 12.00−13.30 WIB
 - **Jumlah SKS**: 3 (Tiga)
 - **Dosen**: Ahmad Rizal, S.Si., M.Kom.
-- **Ruangan**: Lab COMP-B
+- **Ruangan**: Lab COMP-F
 
 ## Pertemuan
 - [**Pertemuan 1**](./pertemuan-1/)
