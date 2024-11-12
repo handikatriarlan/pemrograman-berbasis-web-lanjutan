@@ -17,9 +17,9 @@ Repository ini berisi pembelajaran pada mata kuliah **Pemrograman Berbasis Web L
 
 ## Pertemuan
 - [**Pertemuan 1**](./pertemuan-1/)
-- [**Pertemuan 2**](./pertemuan-1/)
-- [**Pertemuan 3**](./pertemuan-1/)
-- [**Pertemuan 4**](./pertemuan-1/)
+- [**Pertemuan 2**](./pertemuan-2/)
+- [**Pertemuan 3**](./pertemuan-3/)
+- [**Pertemuan 4**](./pertemuan-4/)
 - [**Ujian Tengah Semester**](./midkel01/)
 
 ## Modul Pembelajaran
