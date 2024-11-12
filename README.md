@@ -17,6 +17,14 @@ Repository ini berisi pembelajaran pada mata kuliah **Pemrograman Berbasis Web L
 
 ## Pertemuan
 - [**Pertemuan 1**](./pertemuan-1/)
+- [**Pertemuan 2**](./pertemuan-1/)
+- [**Pertemuan 3**](./pertemuan-1/)
+- [**Pertemuan 4**](./pertemuan-1/)
+- [**Ujian Tengah Semester**](./midkel01/)
 
 ## Modul Pembelajaran
-- [**Laravel Dasar**](Laravel%20Dasar.pptx)
+- [**Laravel Dasar**](./modul/Laravel%20Dasar.pptx)
+- [**Laravel Security**](./modul/Laravel%20Security.pdf)
+- [**Laravel Blade Template**](./modul/Laravel%20Blade%20Template.pptx)
+- [**Laravel Database**](./modul/Laravel%20Database.pptx)
+- [**Laravel Eloquent**](./modul/Laravel%20Eloquent.pptx)
