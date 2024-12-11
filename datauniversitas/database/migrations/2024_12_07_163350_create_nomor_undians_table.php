@@ -11,15 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('pesertas', function (Blueprint $table) {
+        Schema::create('nomor_undians', function (Blueprint $table) {
             $table->id();
-            $table->string('nama');
-            $table->string('nama_pendamping');
-            $table->string('no_wa');
-            $table->string('email')->unique();
-            $table->string('nama_md');
-            $table->boolean('status_daftar');
-            $table->boolean('tampil');
             $table->timestamps();
         });
     }
@@ -29,6 +22,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('pesertas');
+        Schema::dropIfExists('nomor_undians');
     }
 };

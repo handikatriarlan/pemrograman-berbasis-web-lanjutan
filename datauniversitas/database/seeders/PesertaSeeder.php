@@ -19,7 +19,9 @@ class PesertaSeeder extends Seeder
                 'nama_pendamping' => "Pendamping " . $i,
                 'no_wa' => "123" . $i,
                 'email' => "peserta" . $i . "@gmail.com",
-                'nama_md' => "nehru"
+                'nama_md' => "nehru",
+                'status_daftar' => '1',
+                'tampil' => '1',
             ]);
         }
     }
